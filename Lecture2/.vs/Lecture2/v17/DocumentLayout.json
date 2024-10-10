@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB02218F-5970-499E-B44B-D437ECDCE5BF}|Application\\Application.csproj|d:\\lecture2\\application\\faculties\\commands\\createfacultycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB02218F-5970-499E-B44B-D437ECDCE5BF}|Application\\Application.csproj|solutionrelative:application\\faculties\\commands\\createfacultycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4237EF3C-1C0F-4B6F-8B2D-3F3FC1AEFF38}|Api\\Api.csproj|d:\\lecture2\\api\\controllers\\facultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4237EF3C-1C0F-4B6F-8B2D-3F3FC1AEFF38}|Api\\Api.csproj|solutionrelative:api\\controllers\\facultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB02218F-5970-499E-B44B-D437ECDCE5BF}|Application\\Application.csproj|d:\\lecture2\\application\\faculties\\commands\\createfacultycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB02218F-5970-499E-B44B-D437ECDCE5BF}|Application\\Application.csproj|solutionrelative:application\\faculties\\commands\\createfacultycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacultiesController.cs",
+              "DocumentMoniker": "D:\\Lecture2\\Api\\Controllers\\FacultiesController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\FacultiesController.cs",
+              "ToolTip": "D:\\Lecture2\\Api\\Controllers\\FacultiesController.cs",
+              "RelativeToolTip": "Api\\Controllers\\FacultiesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:18:32.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateFacultyCommandValidator.cs",
+              "DocumentMoniker": "D:\\Lecture2\\Application\\Faculties\\Commands\\CreateFacultyCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Faculties\\Commands\\CreateFacultyCommandValidator.cs",
+              "ToolTip": "D:\\Lecture2\\Application\\Faculties\\Commands\\CreateFacultyCommandValidator.cs",
+              "RelativeToolTip": "Application\\Faculties\\Commands\\CreateFacultyCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:18:02.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateFacultyCommand.cs",
+              "DocumentMoniker": "D:\\Lecture2\\Application\\Faculties\\Commands\\CreateFacultyCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Faculties\\Commands\\CreateFacultyCommand.cs",
+              "ToolTip": "D:\\Lecture2\\Application\\Faculties\\Commands\\CreateFacultyCommand.cs",
+              "RelativeToolTip": "Application\\Faculties\\Commands\\CreateFacultyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:18:01.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
